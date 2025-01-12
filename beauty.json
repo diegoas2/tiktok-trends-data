@@ -1,0 +1,777 @@
+[
+    {
+        "hashtag_id": "1",
+        "hashtag_name": "nailart",
+        "publish_cnt": 105000,
+        "rank": 1,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "2",
+        "hashtag_name": "nailinspo",
+        "publish_cnt": 38000,
+        "rank": 2,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "3",
+        "hashtag_name": "koreanskincare",
+        "publish_cnt": 30000,
+        "rank": 3,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "4",
+        "hashtag_name": "nails",
+        "publish_cnt": 262000,
+        "rank": 4,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "5",
+        "hashtag_name": "cosmetics",
+        "publish_cnt": 38000,
+        "rank": 5,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "6",
+        "hashtag_name": "latinamakeup",
+        "publish_cnt": 29000,
+        "rank": 6,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "7",
+        "hashtag_name": "cleangirl",
+        "publish_cnt": 30000,
+        "rank": 7,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "8",
+        "hashtag_name": "fragrancetiktok",
+        "publish_cnt": 27000,
+        "rank": 8,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "9",
+        "hashtag_name": "wig",
+        "publish_cnt": 25000,
+        "rank": 9,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "10",
+        "hashtag_name": "eyeshadow",
+        "publish_cnt": 29000,
+        "rank": 10,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "11",
+        "hashtag_name": "skintok",
+        "publish_cnt": 17000,
+        "rank": 11,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "12",
+        "hashtag_name": "\u043a\u043e\u0441\u043c\u0435\u0442\u0438\u043a\u0430",
+        "publish_cnt": 22000,
+        "rank": 12,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "13",
+        "hashtag_name": "curly",
+        "publish_cnt": 19000,
+        "rank": 13,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "14",
+        "hashtag_name": "hyperpigmentation",
+        "publish_cnt": 7000,
+        "rank": 14,
+        "rank_diff_type": 3,
+        "rank_diff": 24
+    },
+    {
+        "hashtag_id": "15",
+        "hashtag_name": "antiaging",
+        "publish_cnt": 22000,
+        "rank": 15,
+        "rank_diff_type": 1,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "16",
+        "hashtag_name": "hairgrowth",
+        "publish_cnt": 17000,
+        "rank": 16,
+        "rank_diff_type": 1,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "17",
+        "hashtag_name": "pressonnails",
+        "publish_cnt": 23000,
+        "rank": 17,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "18",
+        "hashtag_name": "fade",
+        "publish_cnt": 15000,
+        "rank": 18,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "19",
+        "hashtag_name": "hairgoals",
+        "publish_cnt": 16000,
+        "rank": 19,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "20",
+        "hashtag_name": "naildesigns",
+        "publish_cnt": 18000,
+        "rank": 20,
+        "rank_diff_type": 1,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "21",
+        "hashtag_name": "glassskin",
+        "publish_cnt": 15000,
+        "rank": 21,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "22",
+        "hashtag_name": "makeuproutine",
+        "publish_cnt": 16000,
+        "rank": 22,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "23",
+        "hashtag_name": "beginner",
+        "publish_cnt": 19000,
+        "rank": 23,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "24",
+        "hashtag_name": "haircareroutine",
+        "publish_cnt": 14000,
+        "rank": 24,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "25",
+        "hashtag_name": "bridalmakeup",
+        "publish_cnt": 12000,
+        "rank": 25,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "26",
+        "hashtag_name": "\u043c\u0430\u043a\u0438\u044f\u0436",
+        "publish_cnt": 15000,
+        "rank": 26,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "27",
+        "hashtag_name": "eyelashes",
+        "publish_cnt": 16000,
+        "rank": 27,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "28",
+        "hashtag_name": "elf",
+        "publish_cnt": 14000,
+        "rank": 28,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "29",
+        "hashtag_name": "skincare101",
+        "publish_cnt": 13000,
+        "rank": 29,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "30",
+        "hashtag_name": "braidstyles",
+        "publish_cnt": 10000,
+        "rank": 30,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "31",
+        "hashtag_name": "fragrances",
+        "publish_cnt": 15000,
+        "rank": 31,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "32",
+        "hashtag_name": "lip",
+        "publish_cnt": 13000,
+        "rank": 32,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "33",
+        "hashtag_name": "powder",
+        "publish_cnt": 13000,
+        "rank": 33,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "34",
+        "hashtag_name": "nailtok",
+        "publish_cnt": 12000,
+        "rank": 34,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "35",
+        "hashtag_name": "tiktokbeauty",
+        "publish_cnt": 11000,
+        "rank": 35,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "36",
+        "hashtag_name": "girlygirl",
+        "publish_cnt": 11000,
+        "rank": 36,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "37",
+        "hashtag_name": "selfcareroutine",
+        "publish_cnt": 12000,
+        "rank": 37,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "38",
+        "hashtag_name": "naildesign",
+        "publish_cnt": 12000,
+        "rank": 38,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "39",
+        "hashtag_name": "facemask",
+        "publish_cnt": 10000,
+        "rank": 39,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "40",
+        "hashtag_name": "rhode",
+        "publish_cnt": 9000,
+        "rank": 40,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "41",
+        "hashtag_name": "parfumviral",
+        "publish_cnt": 91000,
+        "rank": 41,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "42",
+        "hashtag_name": "relaxing",
+        "publish_cnt": 53000,
+        "rank": 42,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "43",
+        "hashtag_name": "hygiene",
+        "publish_cnt": 7000,
+        "rank": 43,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "44",
+        "hashtag_name": "colour",
+        "publish_cnt": 8000,
+        "rank": 44,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "45",
+        "hashtag_name": "fragrancetok",
+        "publish_cnt": 9000,
+        "rank": 45,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "46",
+        "hashtag_name": "wavyhair",
+        "publish_cnt": 6000,
+        "rank": 46,
+        "rank_diff_type": 3,
+        "rank_diff": 8
+    },
+    {
+        "hashtag_id": "47",
+        "hashtag_name": "gelxnails",
+        "publish_cnt": 9000,
+        "rank": 47,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "48",
+        "hashtag_name": "lipliner",
+        "publish_cnt": 6000,
+        "rank": 48,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "49",
+        "hashtag_name": "dollartree",
+        "publish_cnt": 8000,
+        "rank": 49,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "50",
+        "hashtag_name": "curlyhairroutine",
+        "publish_cnt": 6000,
+        "rank": 50,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "51",
+        "hashtag_name": "locstyles",
+        "publish_cnt": 8000,
+        "rank": 51,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "52",
+        "hashtag_name": "sensitiveskin",
+        "publish_cnt": 5000,
+        "rank": 52,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "53",
+        "hashtag_name": "lattafa",
+        "publish_cnt": 7000,
+        "rank": 53,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "54",
+        "hashtag_name": "cateyenails",
+        "publish_cnt": 5000,
+        "rank": 54,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "55",
+        "hashtag_name": "nailtrends",
+        "publish_cnt": 6000,
+        "rank": 55,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "56",
+        "hashtag_name": "blackwomen",
+        "publish_cnt": 8000,
+        "rank": 56,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "57",
+        "hashtag_name": "eyeshadowpalette",
+        "publish_cnt": 10000,
+        "rank": 57,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "58",
+        "hashtag_name": "kbeauty",
+        "publish_cnt": 29000,
+        "rank": 58,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "59",
+        "hashtag_name": "snowflakes",
+        "publish_cnt": 4000,
+        "rank": 59,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "60",
+        "hashtag_name": "glowyskin",
+        "publish_cnt": 5000,
+        "rank": 60,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "61",
+        "hashtag_name": "nailtechlife",
+        "publish_cnt": 6000,
+        "rank": 61,
+        "rank_diff_type": 1,
+        "rank_diff": 7
+    },
+    {
+        "hashtag_id": "62",
+        "hashtag_name": "bluehair",
+        "publish_cnt": 5000,
+        "rank": 62,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "63",
+        "hashtag_name": "medicube",
+        "publish_cnt": 6000,
+        "rank": 63,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "64",
+        "hashtag_name": "dysonairwrap",
+        "publish_cnt": 5000,
+        "rank": 64,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "65",
+        "hashtag_name": "lippies",
+        "publish_cnt": 5000,
+        "rank": 65,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "66",
+        "hashtag_name": "dollartreefinds",
+        "publish_cnt": 6000,
+        "rank": 66,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "67",
+        "hashtag_name": "makeuptutorials",
+        "publish_cnt": 5000,
+        "rank": 67,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "68",
+        "hashtag_name": "almondnails",
+        "publish_cnt": 5000,
+        "rank": 68,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "69",
+        "hashtag_name": "menshair",
+        "publish_cnt": 4000,
+        "rank": 69,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "70",
+        "hashtag_name": "silkpress",
+        "publish_cnt": 5000,
+        "rank": 70,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "71",
+        "hashtag_name": "pinknails",
+        "publish_cnt": 5000,
+        "rank": 71,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "72",
+        "hashtag_name": "anua",
+        "publish_cnt": 5000,
+        "rank": 72,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "73",
+        "hashtag_name": "parfumereccomended",
+        "publish_cnt": 47000,
+        "rank": 73,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "74",
+        "hashtag_name": "nailideas",
+        "publish_cnt": 5000,
+        "rank": 74,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "75",
+        "hashtag_name": "lipstain",
+        "publish_cnt": 4000,
+        "rank": 75,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "76",
+        "hashtag_name": "teethcare",
+        "publish_cnt": 5000,
+        "rank": 76,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "77",
+        "hashtag_name": "unhas",
+        "publish_cnt": 23000,
+        "rank": 77,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "78",
+        "hashtag_name": "elfcosmetics",
+        "publish_cnt": 4000,
+        "rank": 78,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "79",
+        "hashtag_name": "shortnails",
+        "publish_cnt": 5000,
+        "rank": 79,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "80",
+        "hashtag_name": "selfcaretips",
+        "publish_cnt": 4000,
+        "rank": 80,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "81",
+        "hashtag_name": "maccosmetics",
+        "publish_cnt": 4000,
+        "rank": 81,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "82",
+        "hashtag_name": "bundles",
+        "publish_cnt": 3000,
+        "rank": 82,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "83",
+        "hashtag_name": "frenchtipnails",
+        "publish_cnt": 4000,
+        "rank": 83,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "84",
+        "hashtag_name": "lashclusters",
+        "publish_cnt": 3000,
+        "rank": 84,
+        "rank_diff_type": 3,
+        "rank_diff": 8
+    },
+    {
+        "hashtag_id": "85",
+        "hashtag_name": "beleza",
+        "publish_cnt": 21000,
+        "rank": 85,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "86",
+        "hashtag_name": "scalpcare",
+        "publish_cnt": 3000,
+        "rank": 86,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "87",
+        "hashtag_name": "aging",
+        "publish_cnt": 4000,
+        "rank": 87,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "88",
+        "hashtag_name": "ulta",
+        "publish_cnt": 5000,
+        "rank": 88,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "89",
+        "hashtag_name": "beeftallow",
+        "publish_cnt": 3000,
+        "rank": 89,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "90",
+        "hashtag_name": "lowtaper",
+        "publish_cnt": 3000,
+        "rank": 90,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "91",
+        "hashtag_name": "kbeautyskincare",
+        "publish_cnt": 3000,
+        "rank": 91,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "92",
+        "hashtag_name": "nailtrend",
+        "publish_cnt": 2000,
+        "rank": 92,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "93",
+        "hashtag_name": "koreanskincareproducts",
+        "publish_cnt": 3000,
+        "rank": 93,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "94",
+        "hashtag_name": "mask",
+        "publish_cnt": 18000,
+        "rank": 94,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "95",
+        "hashtag_name": "microinfluencertiktok",
+        "publish_cnt": 5000,
+        "rank": 95,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "96",
+        "hashtag_name": "winternails",
+        "publish_cnt": 3000,
+        "rank": 96,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "97",
+        "hashtag_name": "glitter",
+        "publish_cnt": 19000,
+        "rank": 97,
+        "rank_diff_type": 3,
+        "rank_diff": 70
+    },
+    {
+        "hashtag_id": "98",
+        "hashtag_name": "relaxation",
+        "publish_cnt": 17000,
+        "rank": 98,
+        "rank_diff_type": 1,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "99",
+        "hashtag_name": "parfummurah",
+        "publish_cnt": 26000,
+        "rank": 99,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "100",
+        "hashtag_name": "showerroutine",
+        "publish_cnt": 2000,
+        "rank": 100,
+        "rank_diff_type": 1,
+        "rank_diff": 6
+    }
+]
