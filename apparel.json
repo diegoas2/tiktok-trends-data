@@ -1,0 +1,771 @@
+[
+    {
+        "hashtag_id": "",
+        "hashtag_name": "1",
+        "publish_cnt": 0,
+        "rank": null,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "2",
+        "hashtag_name": "gift",
+        "publish_cnt": 160000,
+        "rank": 2,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "3",
+        "hashtag_name": "giftideas",
+        "publish_cnt": 136000,
+        "rank": 3,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "4",
+        "hashtag_name": "sale",
+        "publish_cnt": 158000,
+        "rank": 4,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "5",
+        "hashtag_name": "engagement",
+        "publish_cnt": 131000,
+        "rank": 5,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "6",
+        "hashtag_name": "crochet",
+        "publish_cnt": 92000,
+        "rank": 6,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "7",
+        "hashtag_name": "tiktokshopfinds",
+        "publish_cnt": 108000,
+        "rank": 7,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "8",
+        "hashtag_name": "spotlightfinds",
+        "publish_cnt": 113000,
+        "rank": 8,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "9",
+        "hashtag_name": "winterfashion",
+        "publish_cnt": 61000,
+        "rank": 9,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "10",
+        "hashtag_name": "lemon8",
+        "publish_cnt": 46000,
+        "rank": 10,
+        "rank_diff_type": 1,
+        "rank_diff": 12
+    },
+    {
+        "hashtag_id": "11",
+        "hashtag_name": "tiktokshopblackfriday",
+        "publish_cnt": 73000,
+        "rank": 11,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "12",
+        "hashtag_name": "clothingbrand",
+        "publish_cnt": 62000,
+        "rank": 12,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "13",
+        "hashtag_name": "tiktokshopcybermonday",
+        "publish_cnt": 70000,
+        "rank": 13,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "14",
+        "hashtag_name": "accessories",
+        "publish_cnt": 56000,
+        "rank": 14,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "15",
+        "hashtag_name": "temu",
+        "publish_cnt": 23000,
+        "rank": 15,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "16",
+        "hashtag_name": "thrift",
+        "publish_cnt": 44000,
+        "rank": 16,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "17",
+        "hashtag_name": "dresses",
+        "publish_cnt": 43000,
+        "rank": 17,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "18",
+        "hashtag_name": "unboxingvideo",
+        "publish_cnt": 34000,
+        "rank": 18,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "19",
+        "hashtag_name": "blackfriday",
+        "publish_cnt": 56000,
+        "rank": 19,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "20",
+        "hashtag_name": "girly",
+        "publish_cnt": 34000,
+        "rank": 20,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "21",
+        "hashtag_name": "ootdinspo",
+        "publish_cnt": 37000,
+        "rank": 21,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "22",
+        "hashtag_name": "luxurylifestyle",
+        "publish_cnt": 36000,
+        "rank": 22,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "23",
+        "hashtag_name": "crochetersoftiktok",
+        "publish_cnt": 31000,
+        "rank": 23,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "24",
+        "hashtag_name": "shoppinghaul",
+        "publish_cnt": 28000,
+        "rank": 24,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "25",
+        "hashtag_name": "affiliatemarketing",
+        "publish_cnt": 451000,
+        "rank": 25,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "26",
+        "hashtag_name": "affiliate",
+        "publish_cnt": 383000,
+        "rank": 26,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "27",
+        "hashtag_name": "gifts",
+        "publish_cnt": 32000,
+        "rank": 27,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "28",
+        "hashtag_name": "jacket",
+        "publish_cnt": 26000,
+        "rank": 28,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "29",
+        "hashtag_name": "invierno",
+        "publish_cnt": 17000,
+        "rank": 29,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "30",
+        "hashtag_name": "shopnow",
+        "publish_cnt": 28000,
+        "rank": 30,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "31",
+        "hashtag_name": "sewing",
+        "publish_cnt": 20000,
+        "rank": 31,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "32",
+        "hashtag_name": "smallbusinesscheck",
+        "publish_cnt": 32000,
+        "rank": 32,
+        "rank_diff_type": 1,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "33",
+        "hashtag_name": "deals",
+        "publish_cnt": 25000,
+        "rank": 33,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "34",
+        "hashtag_name": "giftguide",
+        "publish_cnt": 35000,
+        "rank": 34,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "35",
+        "hashtag_name": "stylish",
+        "publish_cnt": 27000,
+        "rank": 35,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "36",
+        "hashtag_name": "silver",
+        "publish_cnt": 23000,
+        "rank": 36,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "37",
+        "hashtag_name": "cuantanpabatas",
+        "publish_cnt": 371000,
+        "rank": 37,
+        "rank_diff_type": 3,
+        "rank_diff": 7
+    },
+    {
+        "hashtag_id": "38",
+        "hashtag_name": "handmadegifts",
+        "publish_cnt": 21000,
+        "rank": 38,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "39",
+        "hashtag_name": "giftsforher",
+        "publish_cnt": 22000,
+        "rank": 39,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "40",
+        "hashtag_name": "musthave",
+        "publish_cnt": 21000,
+        "rank": 40,
+        "rank_diff_type": 1,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "41",
+        "hashtag_name": "quincea\u00f1era",
+        "publish_cnt": 12000,
+        "rank": 41,
+        "rank_diff_type": 3,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "42",
+        "hashtag_name": "comfortable",
+        "publish_cnt": 28000,
+        "rank": 42,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "43",
+        "hashtag_name": "thrifted",
+        "publish_cnt": 16000,
+        "rank": 43,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "44",
+        "hashtag_name": "wishlist",
+        "publish_cnt": 15000,
+        "rank": 44,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "45",
+        "hashtag_name": "vintagefashion",
+        "publish_cnt": 15000,
+        "rank": 45,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "46",
+        "hashtag_name": "hauls",
+        "publish_cnt": 14000,
+        "rank": 46,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "47",
+        "hashtag_name": "blackfridaydeals",
+        "publish_cnt": 19000,
+        "rank": 47,
+        "rank_diff_type": 3,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "48",
+        "hashtag_name": "winteroutfit",
+        "publish_cnt": 14000,
+        "rank": 48,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "49",
+        "hashtag_name": "christmasgift",
+        "publish_cnt": 22000,
+        "rank": 49,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "50",
+        "hashtag_name": "giftforher",
+        "publish_cnt": 16000,
+        "rank": 50,
+        "rank_diff_type": 1,
+        "rank_diff": 7
+    },
+    {
+        "hashtag_id": "51",
+        "hashtag_name": "pandora",
+        "publish_cnt": 11000,
+        "rank": 51,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "52",
+        "hashtag_name": "handmadewithlove",
+        "publish_cnt": 18000,
+        "rank": 52,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "53",
+        "hashtag_name": "giftidea",
+        "publish_cnt": 14000,
+        "rank": 53,
+        "rank_diff_type": 3,
+        "rank_diff": 6
+    },
+    {
+        "hashtag_id": "54",
+        "hashtag_name": "reseller",
+        "publish_cnt": 16000,
+        "rank": 54,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "55",
+        "hashtag_name": "louisvuitton",
+        "publish_cnt": 11000,
+        "rank": 55,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "56",
+        "hashtag_name": "leggings",
+        "publish_cnt": 13000,
+        "rank": 56,
+        "rank_diff_type": 1,
+        "rank_diff": 9
+    },
+    {
+        "hashtag_id": "57",
+        "hashtag_name": "lululemon",
+        "publish_cnt": 11000,
+        "rank": 57,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "58",
+        "hashtag_name": "freeshipping",
+        "publish_cnt": 33000,
+        "rank": 58,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "59",
+        "hashtag_name": "affiliatetiktok",
+        "publish_cnt": 158000,
+        "rank": 59,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "60",
+        "hashtag_name": "christmas2024",
+        "publish_cnt": 17000,
+        "rank": 60,
+        "rank_diff_type": 3,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "61",
+        "hashtag_name": "warm",
+        "publish_cnt": 13000,
+        "rank": 61,
+        "rank_diff_type": 1,
+        "rank_diff": 11
+    },
+    {
+        "hashtag_id": "62",
+        "hashtag_name": "cadeau",
+        "publish_cnt": 12000,
+        "rank": 62,
+        "rank_diff_type": 1,
+        "rank_diff": 8
+    },
+    {
+        "hashtag_id": "63",
+        "hashtag_name": "knitting",
+        "publish_cnt": 11000,
+        "rank": 63,
+        "rank_diff_type": 3,
+        "rank_diff": 8
+    },
+    {
+        "hashtag_id": "64",
+        "hashtag_name": "xmas",
+        "publish_cnt": 14000,
+        "rank": 64,
+        "rank_diff_type": 1,
+        "rank_diff": 1
+    },
+    {
+        "hashtag_id": "65",
+        "hashtag_name": "bow",
+        "publish_cnt": 10000,
+        "rank": 65,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "66",
+        "hashtag_name": "womensfashion",
+        "publish_cnt": 16000,
+        "rank": 66,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "67",
+        "hashtag_name": "winterishere",
+        "publish_cnt": 9000,
+        "rank": 67,
+        "rank_diff_type": 3,
+        "rank_diff": 17
+    },
+    {
+        "hashtag_id": "68",
+        "hashtag_name": "washingtondc",
+        "publish_cnt": 11000,
+        "rank": 68,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "69",
+        "hashtag_name": "murah",
+        "publish_cnt": 112000,
+        "rank": 69,
+        "rank_diff_type": 1,
+        "rank_diff": 6
+    },
+    {
+        "hashtag_id": "70",
+        "hashtag_name": "womenswear",
+        "publish_cnt": 23000,
+        "rank": 70,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "71",
+        "hashtag_name": "reviews",
+        "publish_cnt": 10000,
+        "rank": 71,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "72",
+        "hashtag_name": "girlytok",
+        "publish_cnt": 10000,
+        "rank": 72,
+        "rank_diff_type": 3,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "73",
+        "hashtag_name": "crochettok",
+        "publish_cnt": 10000,
+        "rank": 73,
+        "rank_diff_type": 1,
+        "rank_diff": 7
+    },
+    {
+        "hashtag_id": "74",
+        "hashtag_name": "affiliatepemula",
+        "publish_cnt": 108000,
+        "rank": 74,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "75",
+        "hashtag_name": "hiver",
+        "publish_cnt": 9000,
+        "rank": 75,
+        "rank_diff_type": 3,
+        "rank_diff": 7
+    },
+    {
+        "hashtag_id": "76",
+        "hashtag_name": "sewingtiktok",
+        "publish_cnt": 9000,
+        "rank": 76,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "77",
+        "hashtag_name": "purse",
+        "publish_cnt": 10000,
+        "rank": 77,
+        "rank_diff_type": 1,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "78",
+        "hashtag_name": "giftsforhim",
+        "publish_cnt": 10000,
+        "rank": 78,
+        "rank_diff_type": 3,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "79",
+        "hashtag_name": "tiktokshopaffiliate",
+        "publish_cnt": 14000,
+        "rank": 79,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "80",
+        "hashtag_name": "chic",
+        "publish_cnt": 10000,
+        "rank": 80,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "81",
+        "hashtag_name": "gymoutfit",
+        "publish_cnt": 11000,
+        "rank": 81,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "82",
+        "hashtag_name": "ttslevelup",
+        "publish_cnt": 14000,
+        "rank": 82,
+        "rank_diff_type": 1,
+        "rank_diff": 10
+    },
+    {
+        "hashtag_id": "83",
+        "hashtag_name": "thrifthaul",
+        "publish_cnt": 8000,
+        "rank": 83,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "84",
+        "hashtag_name": "thoitrang",
+        "publish_cnt": 87000,
+        "rank": 84,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "85",
+        "hashtag_name": "engagementring",
+        "publish_cnt": 8000,
+        "rank": 85,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "86",
+        "hashtag_name": "reselling",
+        "publish_cnt": 12000,
+        "rank": 86,
+        "rank_diff_type": 1,
+        "rank_diff": 4
+    },
+    {
+        "hashtag_id": "87",
+        "hashtag_name": "lifestyleblogger",
+        "publish_cnt": 10000,
+        "rank": 87,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "88",
+        "hashtag_name": "smallbusinessowner",
+        "publish_cnt": 64000,
+        "rank": 88,
+        "rank_diff_type": 3,
+        "rank_diff": 77
+    },
+    {
+        "hashtag_id": "89",
+        "hashtag_name": "staywarm",
+        "publish_cnt": 6000,
+        "rank": 89,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "90",
+        "hashtag_name": "thoitrangnu",
+        "publish_cnt": 100000,
+        "rank": 90,
+        "rank_diff_type": 3,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "91",
+        "hashtag_name": "giftforhim",
+        "publish_cnt": 9000,
+        "rank": 91,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "92",
+        "hashtag_name": "ootds",
+        "publish_cnt": 8000,
+        "rank": 92,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "93",
+        "hashtag_name": "drip",
+        "publish_cnt": 41000,
+        "rank": 93,
+        "rank_diff_type": 1,
+        "rank_diff": 3
+    },
+    {
+        "hashtag_id": "94",
+        "hashtag_name": "christmasgiftideas",
+        "publish_cnt": 10000,
+        "rank": 94,
+        "rank_diff_type": 1,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "95",
+        "hashtag_name": "walmartfinds",
+        "publish_cnt": 6000,
+        "rank": 95,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "96",
+        "hashtag_name": "sandalwanita",
+        "publish_cnt": 76000,
+        "rank": 96,
+        "rank_diff_type": 3,
+        "rank_diff": 2
+    },
+    {
+        "hashtag_id": "97",
+        "hashtag_name": "girlthings",
+        "publish_cnt": 6000,
+        "rank": 97,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "98",
+        "hashtag_name": "christmasshopping",
+        "publish_cnt": 6000,
+        "rank": 98,
+        "rank_diff_type": 1,
+        "rank_diff": 8
+    },
+    {
+        "hashtag_id": "99",
+        "hashtag_name": "etsyshop",
+        "publish_cnt": 9000,
+        "rank": 99,
+        "rank_diff_type": 3,
+        "rank_diff": 5
+    },
+    {
+        "hashtag_id": "100",
+        "hashtag_name": "tiktokshopmademebuyit",
+        "publish_cnt": 14000,
+        "rank": 100,
+        "rank_diff_type": 4
+    }
+]
